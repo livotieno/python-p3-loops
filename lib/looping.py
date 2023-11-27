@@ -3,7 +3,7 @@
 def happy_new_year():
     # code goes here!
     pass
-      i10
+      i=10
     while i >= 0:
         if i == 0:
             print("Happy New Year!")
